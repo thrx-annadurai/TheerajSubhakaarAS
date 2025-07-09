@@ -26,7 +26,7 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheerajSubhakaarAS" alt="TheerajSubhakaarAS" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thrx-annadurai" alt="thrx-annadurai" /> </p>
 
 ---
 
