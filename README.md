@@ -20,10 +20,6 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thrx-annadurai" alt="thrx-annadurai" /> </p>
-
----
-
 [linkedin]: https://www.linkedin.com/in/theeraj-subhakaar-60362b240/
 [gmail]: mailto:theerajsubhakaar1975@gmail.com
 [whatsapp]: https://wa.me/919080320789
